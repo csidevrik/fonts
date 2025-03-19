@@ -4,6 +4,7 @@ This repository contains a curated collection of fonts organized by their primar
 
 
 
+
 ## Directory Structure
 
 The fonts are organized in directories with the following naming convention:
