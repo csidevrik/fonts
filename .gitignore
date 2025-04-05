@@ -1,0 +1,34 @@
+# Archivos de compilación de Rust
+/target/
+**/*.rs.bk
+
+# Archivos generados por Cargo
+Cargo.lock
+Cargo.lock.bk
+
+# Archivos de depuración
+*.log
+*.tmp
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de IDEs/editores comunes
+# VS Code
+.vscode/
+*.code-workspace
+
+# IntelliJ / CLion
+.idea/
+*.iml
+*.ipr
+*.iws
+target/
+
+# Archivos del entorno
+.env
+.env.*
+
+# Archivos de prueba
+/tests/output/
